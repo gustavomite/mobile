@@ -1,0 +1,13 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory app:title="@string/messages_header"/>
+    <ListPreference
+        android:defaultValue="name_asc"
+        android:entries="@array/sort_entries"
+        android:entryValues="@array/sort_values"
+        android:key="sort"
+        app:useSimpleSummaryProvider="true"
+        android:title="Ordenar por:" />
+
+</PreferenceScreen>

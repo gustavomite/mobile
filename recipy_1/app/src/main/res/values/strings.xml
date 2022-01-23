@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recipy</string>
+    <string name="nenhuma_receita_adicione_receitas_novas">Nenhuma receita. Adicione receitas novas.</string>
+    <string name="receitas">Receitas</string>
+    <string name="bot_o_para_adicionar_novas_receitas">Botão para adicionar novas receitas.</string>
+    <string name="tempo_estimado">%s minutos</string>
+</resources>

@@ -1,0 +1,16 @@
+<resources>
+    <!-- Reply Preference -->
+    <string-array name="sort_entries">
+        <item name="1">Nome ascendente</item>
+        <item name="2">Nome descendente</item>
+        <item name="3">Tempo ascendente</item>
+        <item name="4">Tempo descendente</item>
+    </string-array>
+
+    <string-array name="sort_values">
+        <item name="1">name_asc</item>
+        <item name="2">name_desc</item>
+        <item name="3">time_asc</item>
+        <item name="4">time_desc</item>
+    </string-array>
+</resources>

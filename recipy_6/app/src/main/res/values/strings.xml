@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Recipy</string>
+    <string name="nenhuma_receita_adicione_receitas_novas">Nenhuma receita. Adicione receitas novas.</string>
+    <string name="receitas">Receitas</string>
+    <string name="bot_o_para_adicionar_novas_receitas">Botão para adicionar novas receitas.</string>
+    <string name="tempo_estimado">%s minutos</string>
+    <string name="ingredientes">Ingredientes:</string>
+    <string name="descri_o">Descrição:</string>
+    <string name="tempo_estimado2">Tempo estimado:</string>
+    <string name="remover_receita">Remover receita?</string>
+    <string name="ok">Ok</string>
+    <string name="cancel">Cancelar</string>
+    <string name="null_activity">Activity null</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nome_da_receita">Nome da receita</string>
+    <string name="receita">Receita</string>
+    <string name="tempo_de_preparo">Tempo de preparo</string>
+    <string name="minutos">minutos</string>
+    <string name="pr_ximo">Próximo</string>
+    <string name="lista_de_ingredientes">Lista de ingredientes</string>
+    <string name="adicionar_ingredientes">Adicionar ingredientes</string>
+    <string name="nome_do_ingrediente">Nome do ingrediente</string>
+    <string name="quantidade">Quantidade</string>
+    <string name="adicionar">Adicionar</string>
+    <string name="remover">Remover</string>
+    <string name="confirmar">Confirmar</string>
+    <string name="erro_nome_vazio">Preencha o nome da receita</string>
+    <string name="err_ingredient">Preencha o nome do ingrediente e a quantidade</string>
+    <string name="placeholder_minutos">%s minutos</string>
+    <string name="x_minutes">%s minutos</string>
+</resources>
